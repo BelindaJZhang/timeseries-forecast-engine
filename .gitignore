@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Auto-generated artifacts
+models/
+metrics/
+results/
+scalers/
+logs/
+*.keras
+*.pkl
+*.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.log
